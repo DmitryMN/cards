@@ -4,6 +4,8 @@ import Navbar from './components/Navbar';
 import Login from './components/Login';
 import Register from './components/Register';
 import ForgotPass from './components/ForgotPass';
+import NewPass from './components/NewPass';
+import Profile from './components/Profile';
 
 function App() {
   return (
@@ -11,7 +13,9 @@ function App() {
       <Navbar />
       {/* <Login /> */}
       {/* <Register /> */}
-      <ForgotPass />
+      {/* <ForgotPass /> */}
+      {/* <NewPass /> */}
+      <Profile />
     </div>
   );
 }

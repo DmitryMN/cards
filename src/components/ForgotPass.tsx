@@ -2,7 +2,7 @@ import React from 'react'
 
 const ForgotPass: React.FC = () => {
   return (
-    <div className="forgot">
+  <div className="forgot">
     <div className="wrapper">
       <form className="form">
         <h4 className="form__title">It-incubator</h4>
