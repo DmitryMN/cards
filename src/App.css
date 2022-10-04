@@ -22,6 +22,11 @@
 
 .login {
     width: 100%;
+    height: 100%;
+    padding-top: 80px;
+}
+.form__submit-login {
+    padding: 9px 112px;
 }
 
 .wrapper {
@@ -72,8 +77,17 @@
     color: #fff;
     background-color: #644e3f;
 }
+.register {
+    width: 100%;
+    height: 100%;
+    padding-top: 80px;
+}
 .form__submit-cansel {
+    padding: 9px 36px;
     margin-bottom: 20px;
+}
+.form__submit-register {
+    padding: 9px 62px;
 }
 .forgot {
     width: 100%;

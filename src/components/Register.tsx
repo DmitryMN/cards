@@ -14,7 +14,7 @@ const Register: React.FC = () => {
         <label className="form__label">Confirm password:</label>
         <input className="form__input form__input-password" type="text" />
         <button className="form__submit form__submit-cansel" type="submit">Cansel</button>
-        <button className="form__submit" type="submit">Register</button>
+        <button className="form__submit form__submit-register" type="submit">Register</button>
       </form>
     </div>
   </div>

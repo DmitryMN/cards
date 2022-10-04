@@ -2,7 +2,7 @@ import React from 'react';
 import logo from '../../src/images/profile.png';
 
 
-const Profile = () => {
+const Profile: React.FC = () => {
     return (
         <div className="profile">
             <div className="wrapper">

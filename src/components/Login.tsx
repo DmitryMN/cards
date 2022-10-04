@@ -20,7 +20,7 @@ const Login: React.FC = () => {
               Forgot password
             </a>
           </p>
-          <button className="form__submit" type="submit">Login</button>
+          <button className="form__submit form__submit-login" type="submit">Login</button>
         </form>
       </div>
     </div>

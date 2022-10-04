@@ -1,6 +1,6 @@
 import React from 'react'
 
-const NewPass = () => {
+const NewPass: React.FC = () => {
     return (
         <div className="newpass">
             <div className="wrapper">
